@@ -1,1 +1,1 @@
-# End-To-End-Waste-Detection-using-YOLO-V5
+## End-to-end-Waste-Detection-Using-Yolo-v5
